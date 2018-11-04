@@ -44,6 +44,7 @@ h2 {
 section {
   margin: 1.5em auto;
   width: 400px;
+  text-align: center;
 }
 button {
   display: block;
@@ -67,7 +68,7 @@ button .fa {
   font-size: 130px;
   line-height: 200px;
   margin: 0;
-  text-shadow: 1px 2px 2px #2a8b90;
+  text-shadow: 1px 2px 2px #6ecd6e;
 }
 button:hover {
   transform: scale(.92);
