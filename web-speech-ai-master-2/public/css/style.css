@@ -6,7 +6,7 @@ html {
 body {
   padding: 0;
   margin: 0;
-  font-family: "Gotham-Ultra";
+  font-family: "Gotham, Ultra";
   font-weight: 300;
   background: #6ecd6e 0 0 no-repeat;
   background-size: cover;
@@ -87,7 +87,7 @@ button:focus {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin-left: 10px;
+  text-align: center
 }
 .fa-github::before {
     content: "\f09b";
